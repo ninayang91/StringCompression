@@ -111,7 +111,7 @@ public class Main {
     		index++;
     	}
     	return index;
-    }
+    }//Time O(n) Space O(n)
 
 
 }
